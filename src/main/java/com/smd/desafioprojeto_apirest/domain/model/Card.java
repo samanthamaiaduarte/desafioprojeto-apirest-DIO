@@ -18,7 +18,7 @@ public class Card {
 	@Column(unique = true, nullable = false)
 	private String number;
 	
-	@Column(name = "additional_limit", scale = 14, precision = 2)
+	@Column(name = "additional_limit", precision = 14, scale = 2)
 	private BigDecimal limit;
 	
 	public Card() { }
