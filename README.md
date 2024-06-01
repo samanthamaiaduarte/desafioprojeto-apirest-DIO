@@ -1,6 +1,13 @@
-##
+## DIO - Backend with Java 2024 - Project Challenge
 
+### Challenge
+The aim of this hands-on practical project is to create a RESTful API using Java 17 and Spring Boot 3.
 
+#### Main technologies
+- **Java 17**
+- **Spring Boot 3**
+- **Spring Data JPA**
+- **H2 Database**
 
 #### Class Diagram
 ``` mermaid
@@ -45,3 +52,5 @@ classDiagram
     User "1" *-- "1..*" Feature
     User "1" *-- "1..*" News
 ```
+
+##### [User JSON](https://github.com/samanthamaiaduarte/desafio-bootcamp-DIO/blob/main/assets/User.json)

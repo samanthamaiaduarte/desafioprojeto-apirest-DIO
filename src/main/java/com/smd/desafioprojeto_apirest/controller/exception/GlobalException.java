@@ -2,8 +2,6 @@ package com.smd.desafioprojeto_apirest.controller.exception;
 
 import java.time.LocalDateTime;
 
-import org.springframework.http.HttpStatus;
-
 public class GlobalException {
 	private LocalDateTime timestamp;
 	private String status;
