@@ -53,4 +53,4 @@ classDiagram
     User "1" *-- "1..*" News
 ```
 
-##### [User JSON](https://github.com/samanthamaiaduarte/desafio-bootcamp-DIO/blob/main/assets/User.json)
+##### [User JSON](https://github.com/samanthamaiaduarte/desafioprojeto-apirest-DIO/blob/main/assets/User.json)
